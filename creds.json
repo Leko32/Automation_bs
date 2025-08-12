@@ -1,0 +1,17 @@
+{
+  "profile_1": {
+    "login": "Your_login",
+    "password": "Your_password",
+    "url": "https://bsky.app/profile/example/followers"
+  },
+  "profile_2": {
+    "login": "Your_login",
+    "password": "Your_password",
+    "url": "https://bsky.app/profile/example/followers"
+  },
+  "profile_3": {
+    "login": "Your_login",
+    "password": "Your_password",
+    "url": "https://bsky.app/profile/example/followers"
+  }
+}
